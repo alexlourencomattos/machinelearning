@@ -1,2 +1,2 @@
 # machinelearning
-Estudo da carga através de aplicações de machine learning, deep learning, computação evolutiva e outra aplicações computacionais. #sklearn #lightgbm
+Estudo da carga através de aplicações de machine learning, deep learning, computação evolucionária e neuronal e outra aplicações computacionais. 
